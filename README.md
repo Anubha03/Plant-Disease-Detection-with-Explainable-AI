@@ -156,3 +156,7 @@ streamlit run plant_disease_detection.py
 
 ### **Issue: Model file not found**
 - **Solution:** Ensure `best_model.pth` is in the same directory as the .py file, or download from the GitHub releases
+
+## Project report
+
+[Read the project report (PDF)](reports/Plant_Disease_Detection_Report.pdf)
